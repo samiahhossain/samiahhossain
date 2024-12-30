@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samiahhossain
 - 👀 I’m interested in all things tech, particularly development and cybersecurity.
 - 🌱 I’m currently pursuing a Bachelor of Computer Science.
-- 😄 Pronouns: she/her
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
