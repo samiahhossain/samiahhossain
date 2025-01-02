@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @samiahhossain
 - 👀 I’m interested in all things tech, particularly development and cybersecurity.
 - 🌱 I’m currently pursuing a Bachelor of Computer Science.
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=samiahhossain)
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
