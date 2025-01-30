@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @samiahhossain
 - 👀 I’m interested in all things tech, particularly development and cybersecurity.
 - 🌱 I’m currently pursuing a Bachelor of Computer Science.
-- ⚡ New year's resolution 2025: contribute daily.
 <!---
+- ⚡ New year's resolution 2025: contribute daily.
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
