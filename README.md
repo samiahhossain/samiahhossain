@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samiahhossain
-- 👀 I’m interested in all things tech, particularly development and cybersecurity.
+- 👀 I’m interested in all things tech, but particularly software development and cybersecurity.
 - 🌱 I’m currently pursuing a Bachelor of Computer Science.
 <!---
 - ⚡ New year's resolution 2025: contribute daily.
